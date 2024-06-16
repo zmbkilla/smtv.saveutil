@@ -1,12 +1,12 @@
 
-# SMTV Save Utility
+# SMTV:V Save Utility
 
 A simple save decryption and encryption utility for Shin Megami Tensei V.
 
 ## Requirements
 
 - .NET Runtime 5.0+
-- SMTV Save File(s)
+- SMTV: Save File(s)
 
 ## Usage
 
@@ -33,7 +33,12 @@ Done
 
 > smtv.saveutil.exe -i GameSave02_dec -o GameSave02
 
+
+
 Encrypting...
 Writing to .\GameSave02...
 Done
 ```
+## Notes
+- Not compatible with saves from the original game
+
